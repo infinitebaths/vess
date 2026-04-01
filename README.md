@@ -37,10 +37,6 @@ tyler or reginald  ,  he/him pronouns
 </details>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />
-
-
-<p align="center">
 <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/f9159c18-25b9-463c-9e91-f262e4899d49" />⠀
 
 

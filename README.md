@@ -40,4 +40,10 @@ tyler or reginald  ,  he/him pronouns
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />⠀
 
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bomg4ymg2oweqwv7qetqso7uhi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=000000&bar_color_cover=false&mode=dark">
+ 
+    
+
 

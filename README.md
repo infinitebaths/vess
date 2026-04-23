@@ -7,7 +7,7 @@
 tyler or reginald  ,  he/him pronouns
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />
+<img width="500" height="10" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />
 
 
 
@@ -37,7 +37,7 @@ tyler or reginald  ,  he/him pronouns
 </details>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />⠀
+<img width="500" height="10" alt="image" src="https://github.com/user-attachments/assets/f6e971aa-5371-4b37-8550-c2b476bc6d96" />⠀
 
 
 <p align="center">
